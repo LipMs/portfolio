@@ -1,0 +1,52 @@
+
+header{
+    background-color:#f4511e;  
+}
+
+section, footer{
+    margin:40px;
+}
+
+h1{
+    font-size: 63px; 
+    color:white;
+    padding: 17px;
+    text-align: center;
+}
+
+h2{
+    font-size:24px;
+    text-transform: uppercase;
+    color:#bb7f7f;
+    font-weight: 600;
+}
+
+nav li a{
+    padding: 10px;
+    color:white;
+    text-decoration: none;
+}
+
+nav li{
+    float: left;
+}
+
+nav ul{
+    float:right;
+    list-style: none;
+}
+
+nav{
+    font-size: 12px;
+    letter-spacing: 4px;
+    height: 50px;
+    background-color: #e95050;
+    padding-right: 40px;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color:#ffc107;
+    text-shadow: 4px 4px 4px black;
+}
+ 
